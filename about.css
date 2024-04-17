@@ -1,0 +1,37 @@
+.footer2 {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+    text-decoration:underline;
+    background-color: #606C38;
+
+  }
+  .carousel-container {
+    display: flex;
+    height: 630px;
+    width: 400px;
+    flex-direction: column;
+  }
+
+
+
+  .main-one-container {
+    display: flex;
+    border: 3px solid black;
+   justify-content: center;
+   background-color:#FEFAE0 ;
+   ;
+  
+  }
+
+  .header {
+    background-color:#FEFAE0 ;
+  }
+
+ 
+ 

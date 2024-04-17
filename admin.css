@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.navbar {
+    display: flex;
+    background-color: #606C38;
+    text-align: center;
+    border: 3px solid black;
+}
+
+.main-container {
+    display: flex;
+    background-color: #606C38;
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    flex-direction: column;
+    border: 3px solid black;
+    width: 50%;
+   margin-left: 25%;
+}
+.main-container:hover {
+    background-color: #BC6C25;
+}
+
+
+/* .quiz-container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    border: 1px solid black;
+    justify-content: center;
+} */
+
+
+.table-container {
+    border: 2px solid black;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.table table-bordered {
+    background-color: #FEFAE0;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
+
+
+
