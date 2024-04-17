@@ -21,9 +21,9 @@
 .side {
     display: flex;
     flex: 30%;
-    background-color:#606C38;
+    background-color:#FEFAE0;
     padding: 20px;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
 
 }
